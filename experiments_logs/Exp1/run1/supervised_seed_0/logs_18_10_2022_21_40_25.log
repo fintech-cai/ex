@@ -1,0 +1,19 @@
+=============================================
+Dataset: Epilepsy
+Method:  TS-TCC
+Mode:    supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.1870	 | 	Train Accuracy     : 0.9291
+Valid Loss     : 0.6181	 | 	Valid Accuracy     : 0.8566
+
+Epoch : 2
+Train Loss     : 0.1373	 | 	Train Accuracy     : 0.9511
+Valid Loss     : 0.2601	 | 	Valid Accuracy     : 0.9230
+
+Epoch : 3
+Train Loss     : 0.1185	 | 	Train Accuracy     : 0.9552
+Valid Loss     : 0.2282	 | 	Valid Accuracy     : 0.9342
